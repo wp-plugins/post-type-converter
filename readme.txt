@@ -10,7 +10,7 @@ Allows you to convert the post type of objects while in the edit screen.
 
 == Description ==
 
-Adds meta boxes to all post types and allows you to convert the post type of the current post you are editing to a different post type. This very useful when doing an import from another site into one post type that needs to be divided or even to fill placeholder text throughout multiple post types.
+Adds meta boxes to all post types and allows you to convert the post type of the current post you are editing to a different post type. This very useful when doing an import from another site into one post type that then needs to be filtered into different post types or even to fill dummy posts throughout multiple post types.
 
 == Installation ==
 
