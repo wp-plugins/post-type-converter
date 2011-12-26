@@ -24,7 +24,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *******************************************************************
 */
 
-*/
 if(!class_exists('Post_Type_Converter')) {
 
 	class Post_Type_Converter {
