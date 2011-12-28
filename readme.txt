@@ -1,6 +1,6 @@
 === Post Type Converter ===
 Contributors: kevinlangleyjr
-Donate link: http://voceconnect.com/
+Donate link: http://ubergeni.us/
 Tags: converter, post type, custom post type, cpt
 Requires at least: 2.8
 Tested up to: 3.3
@@ -17,10 +17,13 @@ Adds meta boxes to all post types and allows you to convert the post type of the
 This section describes how to install the plugin and get it working.
 
 1. Upload entire post-type-converter directory to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. For each Post Type, even custom, you will see a new meta box on the top right corner of the edit screen so you can easily change the select box and click update.
 
 == Changelog ==
 
 = 0.1 =
 * First Version
+
+= 0.2 =
+* Updating Readme and Plugin Info

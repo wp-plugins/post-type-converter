@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Post Type Converter
-Plugin URI: http://voceconnect.com
+Plugin URI: https://github.com/voceconnect/post-type-converter
 Description: Gives a qualified user the ability to convert a post from one post_type to another public post_type.
 Author: Kevin Langley
 Version: 0.1
-Author URI: http://voceconnect.com
+Author URI: http://profiles.wordpress.org/users/kevinlangleyjr
 *******************************************************************
 Copyright 2011-2012 Kevin Langley (email : klangley@voceconnect.com)
 
